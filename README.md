@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ... HTML, CSS, JavaScript, React, Node, and Python!
+🌱 I’m currently learning ... HTML, CSS, JavaScript, React, Node
 
 <!--
 **Jhhoo/jhhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
